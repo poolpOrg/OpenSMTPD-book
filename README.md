@@ -6,6 +6,22 @@
 
 <hr />
 
+**THIS IS A WORK IN PROGRESS.**
+
+This project is based on a 120-ish pages book that I wrote in LaTeX,
+but never completed and  never committed to freeze for a first version.
+Since I can't eff-ing work something in private until completion,
+I decided to progressively convert the book to markdown and work in a public repository.
+
+Note that this work is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/), please be nice.
+
+You can use the issues tracker to submit fixes to typos,
+suggest that I discuss a particular topic,
+however keep in mind that this is a personal work written in my own style:
+I will not necessarily merge changes in tone, style or wording.
+
+<hr />
+
 - Preface
 - About the author
 - About this book
