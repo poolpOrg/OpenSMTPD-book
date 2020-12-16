@@ -40,13 +40,13 @@ I will not necessarily merge changes in tone, style or wording.
 - [The roles of OpenSMTPD](src/chapters/1030_The_roles_of_OpenSMTPD.md)
 - [Documentation, resources and community](src/chapters/1040_Documentation_resources_and_community.md)
 - Design and security [needs an update]
-- Understanding the configuration [ needs an update]
+- Understanding the configuration [needs an update]
 - [Understanding tables](src/chapters/1070_Understanding_tables.md)
-- Filters
+- Understanding filters [work in progress]
 
 
 ## Part 2: Where we get out hands dirty
-- Getting started
+- [Getting started](src/chapters/2000_Getting_started.md)
 - Setting up your own first MX
 - Setting up your own useful MX
 - setting up you own advanced MX
