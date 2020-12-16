@@ -26,7 +26,7 @@ I will not necessarily merge changes in tone, style or wording.
 
 <hr />
 
-- Preface
+- [Preface](src/chapters/0001_Preface.md)
 - About the author
 - About this book
 - Greetings
