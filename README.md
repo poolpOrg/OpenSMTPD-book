@@ -38,7 +38,7 @@ I will not necessarily merge changes in tone, style or wording.
 - [What you need to know about the Internet Message Format](src/chapters/1021_What_you_need_to_know_about_IMF.md)
 - [What you need to know about DNS](src/chapters/1022_What_you_need_to_know_about_DNS.md)
 - [The roles of OpenSMTPD](src/chapters/1030_The_roles_of_OpenSMTPD.md)
-- Documentation, resources and community
+- [Documentation, resources and community](src/chapters/1040_Documentation_resources_and_community.md)
 - Design and security
 - Understanding the configuration
 - Tables
