@@ -35,7 +35,7 @@ I will not necessarily merge changes in tone, style or wording.
 ## Part 1: Where we begin with theory
 - [Introduction](src/chapters/1010_Introduction.md)
 - [What you need to know about SMTP](src/chapters/1020_What_you_need_to_know_about_SMTP.md)
-- What you need to know about the Internet Message Format
+- [What you need to know about the Internet Message Format](src/chapters/1021_What_you_need_to_know_about_IMF.md)
 - What you need to know about DNS
 - The roles of OpenSMTPD
 - Documentation, resources and community
