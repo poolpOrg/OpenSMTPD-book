@@ -1,5 +1,9 @@
 # Some book about OpenSMTPD
 
+<img src="images/cc-by-nc-nd-88x31.png" />
+
+<hr />
+
 <center>
     <img src="images/opensmtpd.png" />
 </center>
