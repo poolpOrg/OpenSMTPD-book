@@ -29,7 +29,7 @@ I will not necessarily merge changes in tone, style or wording.
 - [Preface](src/chapters/0001_Preface.md)
 - [About the author](src/chapters/0002_About_the_author.md)
 - About this book [needs an update]
-- Greetings
+- Greetings [needs an update]
 
 
 ## Part 1: Where we begin with theory
@@ -40,8 +40,8 @@ I will not necessarily merge changes in tone, style or wording.
 - [The roles of OpenSMTPD](src/chapters/1030_The_roles_of_OpenSMTPD.md)
 - [Documentation, resources and community](src/chapters/1040_Documentation_resources_and_community.md)
 - Design and security [needs an update]
-- Understanding the configuration
-- Tables
+- Understanding the configuration [ needs an update]
+- [Understanding tables](src/chapters/1070_Understanding_tables.md)
 - Filters
 
 
