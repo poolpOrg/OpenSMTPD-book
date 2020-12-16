@@ -174,11 +174,11 @@ so using the form provided by my server hosting company I declare the name which
 
 This can be verified using the "nslookup" command:
 ```
-$ nslookup 212.83.129.131 
+$ nslookup 82.65.169.200
 Server:         62.210.16.6
 Address:        62.210.16.6#53
 Non-authoritative answer:
-131.129.83.212.in-addr.arpa     name = mx.hypno.cat.
+200.169.65.82.in-addr.arpa     name = mx.hypno.cat.
 Authoritative answers can be found from:
 129.83.212.in-addr.arpa nameserver = nsb.online.net.
 129.83.212.in-addr.arpa nameserver = nsa.online.net.
