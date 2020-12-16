@@ -47,7 +47,7 @@ I will not necessarily merge changes in tone, style or wording.
 
 ## Part 2: Where we get out hands dirty
 - [Getting started](src/chapters/2000_Getting_started.md)
-- Setting up your own first MX
+- [Setting up your own first MX](src/chapters/2001_Setting_up_your_own_first_MX.md) [needs an update]
 - Setting up your own useful MX
 - setting up you own advanced MX
 
