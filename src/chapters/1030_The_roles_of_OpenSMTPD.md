@@ -75,7 +75,7 @@ The decision can only result in two situations:
 an envelope is accepted because the MTA knows what to do with it or it is refused.
 When accepted,
 it means that the MTA is operating as the destination for that envelope and will deliver the message to a local user,
-or it is operating as a relay to another mail exchanger amd will forward it there.
+or it is operating as a relay to another mail exchanger and will forward it there.
 
 Either way,
 if an envelope is accepted and the SMTP transaction isn't aborted,
