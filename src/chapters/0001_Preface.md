@@ -30,8 +30,7 @@ To change my mind,
 I called a friend for a "beer and hacking session" at a pub nearby and wrote the first lines of a _simple_ SMTP server.
 A few hours later,
 slightly intoxicated,
-I had the _poolp.org_ SMTP server delivering its first mails to my mailbox,
-violating every single RFC requirement out there.
+I had the _poolp.org_ SMTP server delivering its first mails to my mailbox and violating every single RFC requirement out there.
 
 Years later and with the contribution of many people,
 OpenSMTPD has evolved a lot from the initial daemon I showed pyr@, chl@, henning@ and reyk@.
