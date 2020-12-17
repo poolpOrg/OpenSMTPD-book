@@ -2,7 +2,7 @@
 
     Letitia!
     What a name.
-    Halfway between a salad and a sneeze.''
+    Halfway between a salad and a sneeze.
     -- Terry Pratchett
 
 
@@ -42,7 +42,7 @@ _ns-master.poolp.org_ and _ns-backup.poolp.org_.
 It then declares that _opensmtpd.org_ and _www.opensmtpd.org_ are resolved as the IP address _82.65.169.200_,
 and more interestingly to us postmasters,
 it also declares that _opensmtpd.org_ has two mail exchanger records:
-_mx1.poolp.org_ with a preference of 0 and _mx2.poolp.org_ with a preference of 50.
+_mx-in.poolp.org_ with a preference of 0 and _mx-backup.poolp.org_ with a preference of 50.
 This is done through the use of MX records.
 
 Note that records may have relative labels,
