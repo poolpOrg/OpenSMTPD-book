@@ -15,15 +15,15 @@ I don't recall precisely his request,
 I'm still in denial,
 but it was of the kind that I would accept and deal with right away.
 
-So I started editing Sendmail's "configuration file" and I could not convince myself that what I had done was correct.
+I started editing Sendmail's "configuration file" and I could not convince myself that what I had done was correct.
 The more I read the changes, the more they confused me.
-I had the intuition, a subconscious warning, that something was going to break for some weird reason.
+I had the intuition, a subconscious warning, that something was going to break for a weird reason.
 After a while, I decided to do what any sysadmin would do in that situation: take a leap of faith[<sup>1</sup>](#1).
 
-I deployed, broke mail and reverted back to previous configuration.
+I deployed, broke mail and reverted to previous configuration.
 I was devastated,
 ridiculed by the SMTP Daemon,
-my old trusted friend had just slapped me in the face and I could see him laughing.
+my old trusted friend had slapped me in the face and I could see him laughing.
 At me, not with me.
 
 To change my mind,
@@ -36,7 +36,7 @@ Years later and with the contribution of many people,
 OpenSMTPD has evolved a lot from the initial daemon I showed pyr@, chl@, henning@ and reyk@.
 It is dead simple,
 provides a wide range of features,
-has very clean code and can be extended to achieve impressive setups.
+has clean code and can be extended to achieve impressive setups.
 
 I have no doubts someday it will rule the world.
 
