@@ -25,12 +25,12 @@ mainly because it will allow me to keep the examples simple.
 
 ### DNS zones
 DNS servers store the informations regarding the domains they handle in _zones_.
-The _ns1.poolp.org_ nameserver is in charge of the domain _opensmtpd.org_ and has a zone file describing the details regarding this domain.
+The _ns-master.poolp.org_ nameserver is in charge of the domain _opensmtpd.org_ and has a zone file describing the details regarding this domain.
 The zone for _opensmtpd.org_ contains the following (irrelevant parts truncated):
 
 ```
-                NS      ns1.poolp.org.
-                NS      ns2.poolp.org.
+                NS      ns-master.poolp.org.
+                NS      ns-backup.poolp.org.
                 A       82.65.169.200
 www             A       82.65.169.200
 opensmtpd.org.  MX 0    mx-in.poolp.org.
@@ -38,7 +38,7 @@ opensmtpd.org.  MX 50   mx-backup.poolp.org.
 ```
 
 The _opensmtpd.org_ zone declares two nameservers,
-_ns1.poolp.org_ and _ns2.poolp.org_.
+_ns-master.poolp.org_ and _ns-backup.poolp.org_.
 It then declares that _opensmptd.org_ and _www.opensmptd.org_ are resolved as the IP address _88.190.23.165_,
 and more interestingly to us postmasters,
 it also declares that _opensmtpd.org_ has two mail exchanger records:
