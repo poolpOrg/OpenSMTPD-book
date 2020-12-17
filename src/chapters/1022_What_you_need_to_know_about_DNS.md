@@ -63,7 +63,7 @@ subnet1.opensmtpd.org.  MX 0    mx1.example.org.
 subnet2.opensmtpd.org.  MX 0    mx1.example.com.
 ```
 
-The mail exchangers _mx1.poolp.org_ and _mx2.poolp.org_ both handle the domain _opensmtpd.org_,
+The mail exchangers _mx-in.poolp.org_ and _mx-backup.poolp.org_ both handle the domain _opensmtpd.org_,
 while _mx1.example.org_ handles _subnet1.opensmtpd.org_ and _mx1.example.com_ handles _subnet2.opensmtpd.org_.
 Dead simple.
 
