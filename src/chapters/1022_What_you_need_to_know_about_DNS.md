@@ -143,7 +143,7 @@ a network outage,
 someone tripping on the cable,
 or even an exhausted sysadmin accidentally typing `halt` in the wrong terminal<sup>[2](#2)</sup>.
 
-This is where preferences enter into play.
+This is where preferences come into play.
 Each MX server for a domain has a preference value associated to its MX record in the zone.
 The preference is a numerical value which determines in what order MX servers should be attempted by a remote MX when trying to transfer messages for the domain.
 The lower the preference value is, the highest priority the MX gets.
