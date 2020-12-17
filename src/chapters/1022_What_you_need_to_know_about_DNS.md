@@ -18,7 +18,7 @@ You can manage to survive with basic knowledge of how it works but the SMTP netw
 As a matter of fact,
 most SMTP failures result from problems taking place at the DNS level and a broken DNS setup will invariably result in broken SMTP exchanges.
 
-Let's have a look at the how DNS works and how SMTP interacts with it without worrying (yet) about more advanced topics like DKIM, SPF, DMARC or DANE which make use of the DNS system to "enhance" the SMTP protocol.
+Let's have a look at how DNS works and how SMTP interacts with it without worrying (yet) about more advanced topics like DKIM, SPF, DMARC or DANE which make use of the DNS system to "enhance" the SMTP protocol.
 I will also pretend that IPv6 doesn't exist for now,
 mainly because it will allow me to keep the examples simple.
 
