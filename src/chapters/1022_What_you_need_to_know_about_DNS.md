@@ -162,7 +162,7 @@ It considers _spool.mail.gandi.net_ as closer to the destination than _fb.mail.g
 though from a purely technical perspective it could send to either one and be discharged of its responsability with regard to the mail as they both are declared as destination MX for the domain in the zone.
 
 Any of the MX for a domain may accept messages for that domain,
-disregarding of their preference value,
+regardless of their preference value,
 but since an MX commits to bring a message closer to its destination,
 it implies that an MX that's not the destination will only attempt to forward a message to another MX with a lower preference value.
 These MX servers are called _backup MX_ because they provide a backup service to the _primary MX_ servers in case they are unreachable,
