@@ -39,7 +39,7 @@ opensmtpd.org.  MX 50   mx-backup.poolp.org.
 
 The _opensmtpd.org_ zone declares two nameservers,
 _ns-master.poolp.org_ and _ns-backup.poolp.org_.
-It then declares that _opensmtpd.org_ and _www.opensmtpd.org_ are resolved as the IP address _88.190.23.165_,
+It then declares that _opensmtpd.org_ and _www.opensmtpd.org_ are resolved as the IP address _82.65.169.200_,
 and more interestingly to us postmasters,
 it also declares that _opensmtpd.org_ has two mail exchanger records:
 _mx1.poolp.org_ with a preference of 0 and _mx2.poolp.org_ with a preference of 50.
