@@ -48,15 +48,15 @@ I will not necessarily merge changes in tone, style or wording.
 ## Part 2: Where we get out hands dirty
 - [Getting started](src/chapters/2000_Getting_started.md)
 - [Setting up your own first MX](src/chapters/2001_Setting_up_your_own_first_MX.md) [needs an update]
-- Setting up your own useful MX
-- setting up you own advanced MX
+- Setting up your own useful MX [needs an update]
+- setting up you own advanced MX [needs an update]
 
 
 ## Part 3: Where we operate things
-- Logging and statistics
+- [Logging, Tracing, Reporting and Statistics](src/chapters/3000_logging_tracing_reporting_statistics.md) [work in progress]
 - Reporting
 
 
 ## Part 4: Where we're done and say goodbye
-- Supporting the project and the author
-- Postface
+- Supporting the project and the author [needs an update]
+- Postface [needs an update]
